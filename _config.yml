@@ -216,6 +216,8 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  - _pages/publications.md
+  - _pages/cv.md
   - al-folio-upgrade-report.md
   - bin/
   - CONTRIBUTING.md
